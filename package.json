@@ -17,6 +17,9 @@
   "keywords": [
     "proxy"
   ],
+    "engines": {
+    "node": "16.x"
+  },
   "author": "",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
