@@ -18,16 +18,13 @@
     "proxy"
   ],
     "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "author": "",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "autoprefixer": "^10.4.5",
     "postcss": "^8.4.13"
-  },
-    "engines": {
-    "node": "18.0.0"
   }
 }
 
